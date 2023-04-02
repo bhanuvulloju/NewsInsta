@@ -5,6 +5,8 @@ export default class Title extends Component {
     return (
       <div>
         <h3 style={{marginLeft :'5px'}}>News Insta</h3>
+        console.log('It is title');
+        
       </div>
     )
   }
